@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Homeworks;
+
+Class ob = new Class();
+Console.WriteLine(ob.maxNumber(7, 5, 32, 12, 6));
+
